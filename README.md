@@ -14,4 +14,4 @@ This is a highly interactive multi-page website that is cross-platform repsonsiv
 
 
 ## Here's a link to the website (Deployed on Heroku)
-[SySAdmin](https://sysadmin1.herokuapp.com/index.html "SySAdmin")
+[SySAdmin](https://sysadmin2.herokuapp.com/index.html "SySAdmin")
