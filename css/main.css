@@ -1,0 +1,56 @@
+:root {
+  --main-color: #5f0f4e;
+  --secondary-color: #f4decb;
+  --box-color: #49274a;
+  --btn-color: #49274a;
+}
+.side-nav {
+  background-color: var(--secondary-color);
+}
+.btn,
+.btn-large {
+  background-color: var(--btn-color);
+}
+
+.btn:hover {
+  background-color: var(--main-color);
+}
+
+.btn-large:hover {
+  background-color: var(--main-color);
+}
+
+.body {
+  background-color: var(--secondary-color);
+}
+
+.navbar,
+.footer {
+  background-color: var(--main-color);
+}
+
+.box {
+  background-color: var(--box-color);
+}
+
+.loader {
+  position: absolute;
+  top: 40%;
+  left: 47%;
+}
+#login-body {
+  background: url(../img/purple1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+.login {
+  margin-top: 100px;
+}
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
